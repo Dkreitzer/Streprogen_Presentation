@@ -24,20 +24,20 @@ We accessed the data a couple different ways:
     * download | data_check | incidents | station_IDs | Route_Summary | Data_Request | Import_Summary
   * JAVA app to download historical data.
 <p align="center">
-<img src="Images/MNDOT_JavaApp.png" width="300" height="300" title="MNDOT JAVA App">
+<img src="Images/MNDOT_JavaApp.png" width="350" height="350" title="MNDOT JAVA App">
 </p>
 
 ## What tools did we use to analyze the data?
 Almost all of our work was complete using a Jupyter Notebook, and a little bit of data organizing in Excel.
 <p align="center">
-<img src="Images/notebook_dependencies.png" width="300" height="300" title="Notebook Dependencies">
+<img src="Images/notebook_dependencies.png" title="Notebook Dependencies">
 </p>
 
 ## Animating the Data
 
 Using data collected from the bot, we created a gif along Highway 35W that changed colors and width based on the speed and volume of traffic.
 <p align="center">
-<img src="Images/35W_NB_GIF.gif" width="300" height="300" title="MNDOT 35W Gif">
+<img src="Images/35W_NB_GIF.gif" width="400" height="400" title="MNDOT 35W Gif">
 </p>
 
 
